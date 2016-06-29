@@ -1,2 +1,2 @@
-# xtianity.guthub.io
+# xtianity.github.io
 github repo
